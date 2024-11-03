@@ -1,0 +1,15 @@
+{
+    "nft_contract_address": "0x1Df1014ccd5A2bFb4A73540225f0A034a772c55b",
+    "_receiver": "",
+    "_quantity": 2,
+    "_currency": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "_pricePerToken": 0,
+    "_allowlistProof": {
+        "proof": ["0x0000000000000000000000000000000000000000000000000000000000000000"],
+        "quantityLimitPerWallet": 0,
+        "pricePerToken": 0,
+        "currency": ""
+    },
+    "_data": "0x",
+    "_value": 0.0002
+}
